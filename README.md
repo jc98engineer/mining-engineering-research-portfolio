@@ -1,18 +1,89 @@
-# JC_98_Portfolio
-Engineering and Data Scince 
-<h1 align="center">Hi 👋, I'm Juan Carlos Aburto I.</h1>
-<h3 align="center">I am a Civil Engineer UTFSM, I am committed, reliable, respectful of diversity and multiculturalism. I work well under pressure, I am interested in data analysis, effective communication and teamwork.</h3>
+# Mining Engineering Research Portfolio
 
-- 💬 Ask me about **Mining Engineering, MATLAB, Python, Data Science, Predictive Modelling, EDA.**
+This repository contains selected academic and applied research work developed as part of my background in Mining Engineering, with a focus on blasting, vibration prediction, physical modelling, and the application of data-driven methods to mining problems.
 
-- 📫 How to reach me **jcr.aburtoi@gmail.com**
+## Author
 
-- ⚡ Fun fact **I am currently enrolled in the Bootcamp 4.0 of Data Science & AI at the Universidad del Desarrollo, where I am deepening my skills in data analysis, machine learning, deep learning, and other related areas.**
+**Juan Carlos Aburto Inostroza**  
+Civil Mining Engineer, Universidad Técnica Federico Santa María  
+Santiago, Chile  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/jcaburtoingeniero/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jcaburtoingeniero/" height="30" width="40" /></a>
-</p>
+LinkedIn: [Juan Carlos Aburto](https://www.linkedin.com/in/jcaburtoingeniero/)  
+Email: jcr.aburtoi@gmail.com  
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> </p>
+---
+
+## Repository Contents
+
+### 1. Professional Thesis
+
+**Title:**  
+*Modelo predictivo de vibraciones inducidas por voladura en campo lejano Mina Zaldívar utilizando técnicas de Machine Learning*
+
+**Degree:**  
+Memoria para optar al título profesional de Ingeniero Civil de Minas
+
+**Description:**  
+This thesis focuses on the prediction of blast-induced far-field vibrations at Mina Zaldívar using machine learning techniques. The work combines mining engineering knowledge, blasting theory, vibration analysis, and predictive modelling to estimate vibration behavior under operational mining conditions.
+
+**Main topics:**
+
+- Blast-induced vibrations
+- Far-field vibration prediction
+- Mining data analysis
+- Machine learning applied to mining
+- Predictive modelling
+- Operational mining variables
+
+**File:**  
+[`thesis/memoria-jc-aburto-final.pdf`](thesis/memoria-jc-aburto-final.pdf)
+
+---
+
+### 2. Applied Research Work
+
+**Title:**  
+*Tronadura avanzada en base a teoría física: un análisis crítico a la nueva teoría alemana de tronadura, metodología para aplicación en la minería chilena con modelos predictivos*
+
+**Description:**  
+This applied research work presents a critical analysis of an advanced blasting theory based on physical principles, with a proposed methodology for its application in Chilean mining using predictive models.
+
+**Main topics:**
+
+- Advanced blasting theory
+- Physical modelling in blasting
+- Predictive models for mining applications
+- Chilean mining context
+- Critical analysis of blasting methodologies
+- Engineering-based decision support
+
+**File:**  
+[`research/tronadura-avanzada-teoria-fisica-modelos-predictivos.pdf`](research/tronadura-avanzada-teoria-fisica-modelos-predictivos.pdf)
+
+---
+
+## Technical Focus
+
+This repository reflects my interest in connecting traditional mining engineering with quantitative and computational methods, especially in areas such as:
+
+- Blasting engineering
+- Mine operations
+- Predictive modelling
+- Data analysis
+- Machine learning
+- Applied engineering research
+- Decision-making under operational uncertainty
+
+---
+
+## Why This Repository Matters
+
+The objective of this repository is to organize and present relevant mining engineering research in a professional and accessible format. These works represent an early foundation of my technical profile, combining domain knowledge in mining with analytical and predictive modelling approaches.
+
+This background later evolved into my professional interest in mining analytics, operational excellence, industrial data science, and technology applied to mining operations.
+
+---
+
+## Keywords
+
+`Mining Engineering` · `Blasting` · `Vibration Prediction` · `Machine Learning` · `Predictive Modelling` · `Mine Operations` · `Applied Research` · `Physical Modelling` · `Data Science in Mining`
